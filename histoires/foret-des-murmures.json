@@ -1,0 +1,143 @@
+{
+  "id": "foret-des-murmures",
+  "title": "La Forêt des Murmures",
+  "genre": "fantasy",
+  "hook": "Dans cette forêt, les arbres se souviennent de chaque promeneur.",
+  "summary": "(Résumé provisoire.) On dit que les arbres de la forêt des Murmures retiennent tout ce qu'on leur confie. Quand ils commencent à t'appeler par ton nom, tu comprends qu'ils ont quelque chose à te dire.",
+  "coverImage": null,
+  "isFree": false,
+  "isNew": false,
+  "price": null,
+  "themeId": "retro-map",
+  "spine": {
+    "color": "#3E5A3A",
+    "width": 36,
+    "height": 90
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "L'orée",
+      "teaser": "À la lisière de la forêt, un écriteau effacé. On ne distingue plus qu'un mot : « Écoute ».",
+      "text": [
+        "(Texte provisoire.) Chapitre 1 de « La Forêt des Murmures » : L'orée. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 0,
+      "souvenir": {
+        "id": "foret-des-murmures.oak-leaf",
+        "name": "Feuille de chêne",
+        "icon": "leaf"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Le premier murmure",
+      "teaser": "Le vent se lève, et parmi les bruissements, une voix prononce ton prénom.",
+      "text": [
+        "(Texte provisoire.) Chapitre 2 de « La Forêt des Murmures » : Le premier murmure. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "foret-des-murmures.acorn",
+        "name": "Gland doré",
+        "icon": "acorn"
+      }
+    },
+    {
+      "number": 3,
+      "title": "Le sentier des lucioles",
+      "teaser": "Des lucioles dessinent un chemin dans la nuit. Elles s'éteignent derrière toi.",
+      "text": [
+        "(Texte provisoire.) Chapitre 3 de « La Forêt des Murmures » : Le sentier des lucioles. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "foret-des-murmures.firefly-jar",
+        "name": "Bocal de lucioles",
+        "icon": "jar"
+      }
+    },
+    {
+      "number": 4,
+      "title": "La clairière",
+      "teaser": "Au centre de la clairière, un arbre immense dont l'écorce porte des milliers de noms gravés.",
+      "text": [
+        "(Texte provisoire.) Chapitre 4 de « La Forêt des Murmures » : La clairière. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "foret-des-murmures.carved-bark",
+        "name": "Écorce gravée",
+        "icon": "bark"
+      }
+    },
+    {
+      "number": 5,
+      "title": "La gardienne",
+      "teaser": "Une vieille femme vit au pied de l'arbre. Elle t'attendait, dit-elle, depuis très longtemps.",
+      "text": [
+        "(Texte provisoire.) Chapitre 5 de « La Forêt des Murmures » : La gardienne. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "foret-des-murmures.wooden-flute",
+        "name": "Flûte de sureau",
+        "icon": "flute"
+      }
+    },
+    {
+      "number": 6,
+      "title": "Le secret des racines",
+      "teaser": "Sous les racines, un passage descend vers une lumière verte et chaude.",
+      "text": [
+        "(Texte provisoire.) Chapitre 6 de « La Forêt des Murmures » : Le secret des racines. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "foret-des-murmures.moss-stone",
+        "name": "Pierre de mousse",
+        "icon": "stone"
+      }
+    },
+    {
+      "number": 7,
+      "title": "Le chant de la forêt",
+      "teaser": "Tous les arbres se mettent à chanter. C'est le moment de leur répondre.",
+      "text": [
+        "(Texte provisoire.) Chapitre 7 de « La Forêt des Murmures » : Le chant de la forêt. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "foret-des-murmures.silver-seed",
+        "name": "Graine d'argent",
+        "icon": "seed"
+      }
+    }
+  ],
+  "finalSouvenir": {
+    "id": "foret-des-murmures.leaf-crown",
+    "name": "Couronne de feuilles",
+    "icon": "leaf"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "affaire-vernier",
+  "title": "L'Affaire Vernier",
+  "genre": "crime",
+  "hook": "Un disparu, sept suspects.",
+  "summary": "(Résumé provisoire.) Armand Vernier, horloger respecté, a disparu un mardi soir sans laisser de trace. Sept personnes l'ont vu ce jour-là. Chacune a quelque chose à cacher.",
+  "coverImage": null,
+  "isFree": true,
+  "isNew": true,
+  "price": null,
+  "themeId": "retro-map",
+  "spine": {
+    "color": "#2B2B2B",
+    "width": 38,
+    "height": 92
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "L'atelier vide",
+      "teaser": "L'atelier de l'horloger est en ordre parfait. Seule une montre, sur l'établi, s'est arrêtée à 21 h 12.",
+      "text": [
+        "(Texte provisoire.) Chapitre 1 de « L'Affaire Vernier » : L'atelier vide. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 0,
+      "souvenir": {
+        "id": "affaire-vernier.stopped-watch",
+        "name": "Montre arrêtée",
+        "icon": "watch"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Le voisin",
+      "teaser": "Le voisin affirme n'avoir rien entendu. Pourtant, ses chaussures sont couvertes de boue fraîche.",
+      "text": [
+        "(Texte provisoire.) Chapitre 2 de « L'Affaire Vernier » : Le voisin. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "affaire-vernier.muddy-print",
+        "name": "Empreinte de boue",
+        "icon": "footprint"
+      }
+    },
+    {
+      "number": 3,
+      "title": "La nièce",
+      "teaser": "La nièce de Vernier hérite de tout. Elle n'a pas l'air surprise par sa disparition.",
+      "text": [
+        "(Texte provisoire.) Chapitre 3 de « L'Affaire Vernier » : La nièce. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "affaire-vernier.torn-photo",
+        "name": "Photo déchirée",
+        "icon": "photo"
+      }
+    },
+    {
+      "number": 4,
+      "title": "Le carnet de rendez-vous",
+      "teaser": "Dans le carnet de l'horloger, un nom revient chaque mardi. Un nom que personne ne connaît.",
+      "text": [
+        "(Texte provisoire.) Chapitre 4 de « L'Affaire Vernier » : Le carnet de rendez-vous. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "affaire-vernier.notebook",
+        "name": "Carnet noir",
+        "icon": "notebook"
+      }
+    },
+    {
+      "number": 5,
+      "title": "Le quai",
+      "teaser": "Un témoin a vu deux silhouettes sur le quai, cette nuit-là. L'une portait un parapluie rouge.",
+      "text": [
+        "(Texte provisoire.) Chapitre 5 de « L'Affaire Vernier » : Le quai. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "affaire-vernier.red-umbrella",
+        "name": "Parapluie rouge",
+        "icon": "umbrella"
+      }
+    },
+    {
+      "number": 6,
+      "title": "Le double fond",
+      "teaser": "Sous l'établi, un tiroir à double fond. Et dedans, une lettre jamais envoyée.",
+      "text": [
+        "(Texte provisoire.) Chapitre 6 de « L'Affaire Vernier » : Le double fond. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "affaire-vernier.unsent-letter",
+        "name": "Lettre jamais envoyée",
+        "icon": "letter"
+      }
+    },
+    {
+      "number": 7,
+      "title": "La vérité",
+      "teaser": "Les sept suspects sont réunis dans l'atelier. L'horloge sonne 21 h 12.",
+      "text": [
+        "(Texte provisoire.) Chapitre 7 de « L'Affaire Vernier » : La vérité. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "affaire-vernier.detective-badge",
+        "name": "Insigne de détective",
+        "icon": "badge"
+      }
+    }
+  ],
+  "finalSouvenir": {
+    "id": "affaire-vernier.vernier-watch",
+    "name": "Montre de Vernier",
+    "icon": "watch"
+  }
+}

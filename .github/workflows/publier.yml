@@ -1,0 +1,44 @@
+# Vérifie les histoires puis les publie sur GitHub Pages.
+# Si la vérification échoue, rien n'est publié : l'app garde la version
+# précédente. Le détail de l'erreur est visible dans l'onglet « Actions ».
+name: Vérifier et publier les histoires
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  verifier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Vérifier les fichiers d'histoires
+        run: python3 outils/verifier.py
+      - name: Préparer le site
+        run: python3 outils/construire_site.py
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: _site
+
+  publier:
+    if: github.event_name != 'pull_request'
+    needs: verifier
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - id: deploiement
+        uses: actions/deploy-pages@v4

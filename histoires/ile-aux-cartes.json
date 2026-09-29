@@ -1,0 +1,126 @@
+{
+  "id": "ile-aux-cartes",
+  "title": "L'Île aux Cartes",
+  "genre": "adventure",
+  "hook": "Une île qui n'apparaît sur aucune carte… sauf sur la tienne.",
+  "summary": "(Résumé provisoire.) Une île absente de toutes les cartes du monde apparaît soudain sur la tienne. Pour l'atteindre, il faudra traverser la mer, déjouer les courants et apprendre à lire les étoiles.",
+  "coverImage": null,
+  "isFree": false,
+  "isNew": false,
+  "price": null,
+  "themeId": "retro-map",
+  "spine": {
+    "color": "#2F4A5A",
+    "width": 34,
+    "height": 84
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "La carte vierge",
+      "teaser": "Sur la carte que tu viens d'acheter, une île se dessine toute seule, trait après trait.",
+      "text": [
+        "(Texte provisoire.) Chapitre 1 de « L'Île aux Cartes » : La carte vierge. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 0,
+      "souvenir": {
+        "id": "ile-aux-cartes.blank-chart",
+        "name": "Carte vierge",
+        "icon": "map"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Le port des brumes",
+      "teaser": "Aucun capitaine n'accepte de naviguer vers une île qui n'existe pas. Sauf un.",
+      "text": [
+        "(Texte provisoire.) Chapitre 2 de « L'Île aux Cartes » : Le port des brumes. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 3500,
+      "souvenir": {
+        "id": "ile-aux-cartes.ship-bell",
+        "name": "Cloche de navire",
+        "icon": "bell"
+      }
+    },
+    {
+      "number": 3,
+      "title": "Les courants contraires",
+      "teaser": "La mer semble vouloir t'éloigner de l'île. Et si c'était l'île qui refusait ta venue ?",
+      "text": [
+        "(Texte provisoire.) Chapitre 3 de « L'Île aux Cartes » : Les courants contraires. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 3500,
+      "souvenir": {
+        "id": "ile-aux-cartes.sextant",
+        "name": "Sextant",
+        "icon": "compass"
+      }
+    },
+    {
+      "number": 4,
+      "title": "Le rivage inconnu",
+      "teaser": "Le sable de l'île est couvert de traces. Pourtant, personne n'y vit depuis des siècles.",
+      "text": [
+        "(Texte provisoire.) Chapitre 4 de « L'Île aux Cartes » : Le rivage inconnu. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 3500,
+      "souvenir": {
+        "id": "ile-aux-cartes.seashell",
+        "name": "Coquillage gravé",
+        "icon": "shell"
+      }
+    },
+    {
+      "number": 5,
+      "title": "Le cartographe",
+      "teaser": "Au cœur de l'île, une cabane remplie de cartes. Toutes représentent des lieux que tu as visités.",
+      "text": [
+        "(Texte provisoire.) Chapitre 5 de « L'Île aux Cartes » : Le cartographe. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 3500,
+      "souvenir": {
+        "id": "ile-aux-cartes.ink-pot",
+        "name": "Encrier d'argent",
+        "icon": "ink"
+      }
+    },
+    {
+      "number": 6,
+      "title": "La dernière carte",
+      "teaser": "Il reste une carte à dessiner. Celle qui te ramènera chez toi.",
+      "text": [
+        "(Texte provisoire.) Chapitre 6 de « L'Île aux Cartes » : La dernière carte. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 3500,
+      "souvenir": {
+        "id": "ile-aux-cartes.star-chart",
+        "name": "Carte des étoiles",
+        "icon": "star"
+      }
+    }
+  ],
+  "finalSouvenir": {
+    "id": "ile-aux-cartes.cartographer-compass",
+    "name": "Boussole du cartographe",
+    "icon": "compass"
+  }
+}

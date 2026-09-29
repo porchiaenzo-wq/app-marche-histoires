@@ -1,0 +1,160 @@
+{
+  "id": "route-des-brumes",
+  "title": "La Route des Brumes",
+  "genre": "adventure",
+  "hook": "Un phare éteint depuis cent ans, une carte déchirée et un village qui refuse d'en parler.",
+  "summary": "Une carte déchirée, un phare éteint depuis cent ans et un village qui refuse d'en parler. Suis la route des brumes jusqu'au bout, pas après pas, pour découvrir ce que la lanterne cachait.",
+  "coverImage": null,
+  "isFree": true,
+  "isNew": false,
+  "price": null,
+  "themeId": "retro-map",
+  "spine": {
+    "color": "#7A2E1C",
+    "width": 40,
+    "height": 94
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Le départ",
+      "teaser": "Une carte déchirée glisse d'un vieux livre. Au dos, quelqu'un a écrit : « Ne cherche pas le phare. »",
+      "text": [
+        "(Texte provisoire.) Chapitre 1 de « La Route des Brumes » : Le départ. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 0,
+      "souvenir": {
+        "id": "route-des-brumes.torn-map",
+        "name": "Carte déchirée",
+        "icon": "map"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Le village muet",
+      "teaser": "Au bout du chemin, un village aux volets clos. Personne ne veut te dire pourquoi le phare s'est éteint.",
+      "text": [
+        "(Texte provisoire.) Chapitre 2 de « La Route des Brumes » : Le village muet. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "route-des-brumes.sealed-letter",
+        "name": "Lettre scellée",
+        "icon": "letter"
+      }
+    },
+    {
+      "number": 3,
+      "title": "Le coffre scellé",
+      "teaser": "Sous le plancher de l'auberge, un coffre marqué du sceau du gardien attend depuis cent ans.",
+      "text": [
+        "(Texte provisoire.) Chapitre 3 de « La Route des Brumes » : Le coffre scellé. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "route-des-brumes.compass",
+        "name": "Boussole",
+        "icon": "compass"
+      }
+    },
+    {
+      "number": 4,
+      "title": "La lanterne éteinte",
+      "teaser": "Le coffre est enfin ouvert… mais il est vide. Quelqu'un est passé avant toi, et il a laissé une trace de pas vers la falaise.",
+      "text": [
+        "Le vieux gardien ne répondit pas. Il posa simplement la lanterne sur la table, entre eux deux, et souffla sur la mèche comme on éteint un secret.",
+        "— Elle n'a pas brillé depuis la nuit du naufrage, murmura-t-il enfin. Et elle ne brillera plus tant que la carte ne sera pas complète.",
+        "Tu sortis le fragment de ta poche. Sous la lueur de la cheminée, un tracé apparut que tu n'avais jamais vu : une ligne pointillée qui filait vers la falaise… et s'arrêtait net, au bord du vide."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "route-des-brumes.rusty-key",
+        "name": "Clé rouillée",
+        "icon": "key"
+      }
+    },
+    {
+      "number": 5,
+      "title": "La falaise",
+      "teaser": "La ligne pointillée s'arrête au bord du vide. Pourtant, en contrebas, quelque chose brille entre les rochers.",
+      "text": [
+        "(Texte provisoire.) Chapitre 5 de « La Route des Brumes » : La falaise. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "route-des-brumes.golden-quill",
+        "name": "Plume d'or",
+        "icon": "quill"
+      }
+    },
+    {
+      "number": 6,
+      "title": "Le gardien du phare",
+      "teaser": "Le gardien connaît la vérité sur le naufrage. Encore faut-il qu'il accepte de la dire.",
+      "text": [
+        "(Texte provisoire.) Chapitre 6 de « La Route des Brumes » : Le gardien du phare. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "route-des-brumes.spyglass",
+        "name": "Longue-vue",
+        "icon": "spyglass"
+      }
+    },
+    {
+      "number": 7,
+      "title": "La nuit du naufrage",
+      "teaser": "Cent ans plus tôt, un navire s'est brisé sur les récifs. Et le phare, cette nuit-là, était allumé.",
+      "text": [
+        "(Texte provisoire.) Chapitre 7 de « La Route des Brumes » : La nuit du naufrage. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "route-des-brumes.locket",
+        "name": "Médaillon terni",
+        "icon": "locket"
+      }
+    },
+    {
+      "number": 8,
+      "title": "La lumière retrouvée",
+      "teaser": "Tous les fragments de la carte sont réunis. Il ne reste qu'à monter les marches du phare.",
+      "text": [
+        "(Texte provisoire.) Chapitre 8 de « La Route des Brumes » : La lumière retrouvée. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4000,
+      "souvenir": {
+        "id": "route-des-brumes.lit-lantern",
+        "name": "Lanterne rallumée",
+        "icon": "lantern"
+      }
+    }
+  ],
+  "finalSouvenir": {
+    "id": "route-des-brumes.complete-map",
+    "name": "Carte complète",
+    "icon": "map"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "grimoire-ambre",
+  "title": "Le Grimoire d'Ambre",
+  "genre": "fantasy",
+  "hook": "Un livre qui s'écrit à chaque pas.",
+  "summary": "(Résumé provisoire.) Dans le grenier de ta grand-mère, un grimoire à la couverture d'ambre se remplit de mots chaque fois que tu marches. Et ce qu'il raconte finit toujours par arriver.",
+  "coverImage": null,
+  "isFree": true,
+  "isNew": false,
+  "price": null,
+  "themeId": "retro-map",
+  "spine": {
+    "color": "#4B2F5C",
+    "width": 44,
+    "height": 96
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Le grenier",
+      "teaser": "Sous une pile de draps, un livre relié d'ambre. Ses pages sont blanches… pour l'instant.",
+      "text": [
+        "(Texte provisoire.) Chapitre 1 de « Le Grimoire d'Ambre » : Le grenier. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 0,
+      "souvenir": {
+        "id": "grimoire-ambre.amber-shard",
+        "name": "Éclat d'ambre",
+        "icon": "gem"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Les premiers mots",
+      "teaser": "En rentrant de promenade, tu découvres une phrase nouvelle dans le grimoire. Elle parle de toi.",
+      "text": [
+        "(Texte provisoire.) Chapitre 2 de « Le Grimoire d'Ambre » : Les premiers mots. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 3500,
+      "souvenir": {
+        "id": "grimoire-ambre.quill",
+        "name": "Plume de corbeau",
+        "icon": "quill"
+      }
+    },
+    {
+      "number": 3,
+      "title": "L'encre vivante",
+      "teaser": "Les lettres bougent sur la page. Elles semblent vouloir t'indiquer un chemin.",
+      "text": [
+        "(Texte provisoire.) Chapitre 3 de « Le Grimoire d'Ambre » : L'encre vivante. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 3500,
+      "souvenir": {
+        "id": "grimoire-ambre.ink-vial",
+        "name": "Fiole d'encre",
+        "icon": "ink"
+      }
+    },
+    {
+      "number": 4,
+      "title": "La bibliothèque cachée",
+      "teaser": "Derrière la bibliothèque du village, une porte que personne n'a ouverte depuis longtemps.",
+      "text": [
+        "(Texte provisoire.) Chapitre 4 de « Le Grimoire d'Ambre » : La bibliothèque cachée. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 3500,
+      "souvenir": {
+        "id": "grimoire-ambre.brass-key",
+        "name": "Clé de laiton",
+        "icon": "key"
+      }
+    },
+    {
+      "number": 5,
+      "title": "L'autre lecteur",
+      "teaser": "Quelqu'un d'autre lit le grimoire. Et il n'a pas les mêmes intentions que toi.",
+      "text": [
+        "(Texte provisoire.) Chapitre 5 de « Le Grimoire d'Ambre » : L'autre lecteur. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 3500,
+      "souvenir": {
+        "id": "grimoire-ambre.candle",
+        "name": "Bougie ensorcelée",
+        "icon": "candle"
+      }
+    },
+    {
+      "number": 6,
+      "title": "La dernière page",
+      "teaser": "Il ne reste qu'une page blanche. C'est toi qui décideras de ce qui y sera écrit.",
+      "text": [
+        "(Texte provisoire.) Chapitre 6 de « Le Grimoire d'Ambre » : La dernière page. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 3500,
+      "souvenir": {
+        "id": "grimoire-ambre.amber-seal",
+        "name": "Sceau d'ambre",
+        "icon": "seal"
+      }
+    }
+  ],
+  "finalSouvenir": {
+    "id": "grimoire-ambre.amber-grimoire",
+    "name": "Grimoire d'ambre",
+    "icon": "book"
+  }
+}

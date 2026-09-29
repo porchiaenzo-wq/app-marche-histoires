@@ -1,0 +1,143 @@
+{
+  "id": "sables-de-kor",
+  "title": "Les Sables de Kor",
+  "genre": "adventure",
+  "hook": "Une cité engloutie par le désert refait surface à chaque tempête.",
+  "summary": "(Résumé provisoire.) Tous les cent ans, une tempête dévoile les tours de Kor, la cité engloutie par le désert. Tu as trois jours pour y entrer, et en ressortir, avant que le sable ne la recouvre.",
+  "coverImage": null,
+  "isFree": false,
+  "isNew": false,
+  "price": null,
+  "themeId": "retro-map",
+  "spine": {
+    "color": "#9C7A45",
+    "width": 36,
+    "height": 88
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "La caravane",
+      "teaser": "Le guide refuse d'aller plus loin. Au-delà des dunes rouges, dit-il, le vent parle.",
+      "text": [
+        "(Texte provisoire.) Chapitre 1 de « Les Sables de Kor » : La caravane. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 0,
+      "souvenir": {
+        "id": "sables-de-kor.water-flask",
+        "name": "Gourde de cuir",
+        "icon": "flask"
+      }
+    },
+    {
+      "number": 2,
+      "title": "La tempête",
+      "teaser": "Le ciel devient ocre. Quand le vent retombe, des tours surgissent là où il n'y avait que du sable.",
+      "text": [
+        "(Texte provisoire.) Chapitre 2 de « Les Sables de Kor » : La tempête. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4500,
+      "souvenir": {
+        "id": "sables-de-kor.scarf",
+        "name": "Chèche bleu",
+        "icon": "scarf"
+      }
+    },
+    {
+      "number": 3,
+      "title": "Les portes de Kor",
+      "teaser": "Les portes de la cité sont couvertes d'inscriptions. L'une d'elles porte ton nom.",
+      "text": [
+        "(Texte provisoire.) Chapitre 3 de « Les Sables de Kor » : Les portes de Kor. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4500,
+      "souvenir": {
+        "id": "sables-de-kor.bronze-coin",
+        "name": "Pièce de bronze",
+        "icon": "coin"
+      }
+    },
+    {
+      "number": 4,
+      "title": "Le marché silencieux",
+      "teaser": "Les étals sont intacts, comme si les habitants venaient de partir. Une tasse de thé fume encore.",
+      "text": [
+        "(Texte provisoire.) Chapitre 4 de « Les Sables de Kor » : Le marché silencieux. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4500,
+      "souvenir": {
+        "id": "sables-de-kor.teacup",
+        "name": "Tasse de cuivre",
+        "icon": "cup"
+      }
+    },
+    {
+      "number": 5,
+      "title": "Le palais des vents",
+      "teaser": "Dans la salle du trône, le vent souffle en permanence, porteur de voix anciennes.",
+      "text": [
+        "(Texte provisoire.) Chapitre 5 de « Les Sables de Kor » : Le palais des vents. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4500,
+      "souvenir": {
+        "id": "sables-de-kor.wind-chime",
+        "name": "Carillon",
+        "icon": "bell"
+      }
+    },
+    {
+      "number": 6,
+      "title": "L'horloge de sable",
+      "teaser": "Une immense horloge de sable s'est remise à couler. Il reste moins d'une journée.",
+      "text": [
+        "(Texte provisoire.) Chapitre 6 de « Les Sables de Kor » : L'horloge de sable. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4500,
+      "souvenir": {
+        "id": "sables-de-kor.hourglass",
+        "name": "Sablier",
+        "icon": "hourglass"
+      }
+    },
+    {
+      "number": 7,
+      "title": "Le retour",
+      "teaser": "Les tours s'enfoncent déjà dans le sable. Il faut choisir : fuir, ou emporter le secret de Kor.",
+      "text": [
+        "(Texte provisoire.) Chapitre 7 de « Les Sables de Kor » : Le retour. Le vrai texte sera écrit plus tard ; ce paragraphe sert seulement à tester la mise en page de la lecture.",
+        "Le chemin s'étirait devant toi, bordé de pierres moussues et de silences. À chaque pas, le paysage semblait se révéler un peu plus, comme une page qu'on tourne lentement. Tu avançais sans te presser, attentif au moindre détail.",
+        "Plus loin, une silhouette se découpa dans la lumière du soir. Tu t'arrêtas, le cœur battant. Quelque chose avait changé, et tu n'étais plus tout à fait certain de vouloir savoir quoi… mais il était trop tard pour faire demi-tour."
+      ],
+      "illustration": null,
+      "stepsRequired": 4500,
+      "souvenir": {
+        "id": "sables-de-kor.desert-rose",
+        "name": "Rose des sables",
+        "icon": "rose"
+      }
+    }
+  ],
+  "finalSouvenir": {
+    "id": "sables-de-kor.key-of-kor",
+    "name": "Clé de Kor",
+    "icon": "key"
+  }
+}
