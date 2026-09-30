@@ -28,6 +28,13 @@ GitHub Pages ; l'app récupère la nouvelle version à sa prochaine ouverture
 - `genre` : `adventure`, `fantasy`, `crime`, `romance`, `horror` ou
   `scienceFiction`.
 
+## Le thème graphique (`themeId`)
+
+Chaque histoire annonce son style : `retro-map` (carte d'explorateur, le
+thème complet). Les autres noms (`grimoire`, `polar`…) sont les thèmes
+prévus pour plus tard : en attendant qu'ils soient dessinés dans l'app,
+ces histoires s'affichent avec le thème simple de secours (« moderne »).
+
 Pour vérifier sur un ordinateur : `python3 outils/verifier.py`.
 
 ## Ce qui est publié
