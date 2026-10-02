@@ -30,7 +30,13 @@
         "id": "affaire-vernier.stopped-watch",
         "name": "Montre arrêtée",
         "icon": "watch"
-      }
+      },
+      "characters": [
+        "armand-vernier"
+      ],
+      "places": [
+        "atelier-vernier"
+      ]
     },
     {
       "number": 2,
@@ -47,7 +53,10 @@
         "id": "affaire-vernier.muddy-print",
         "name": "Empreinte de boue",
         "icon": "footprint"
-      }
+      },
+      "characters": [
+        "inspecteur-lacombe"
+      ]
     },
     {
       "number": 3,
@@ -64,7 +73,10 @@
         "id": "affaire-vernier.torn-photo",
         "name": "Photo déchirée",
         "icon": "photo"
-      }
+      },
+      "characters": [
+        "elise-marrec"
+      ]
     },
     {
       "number": 4,
@@ -98,7 +110,13 @@
         "id": "affaire-vernier.red-umbrella",
         "name": "Parapluie rouge",
         "icon": "umbrella"
-      }
+      },
+      "characters": [
+        "inspecteur-lacombe"
+      ],
+      "places": [
+        "quai-saint-roch"
+      ]
     },
     {
       "number": 6,
@@ -115,7 +133,10 @@
         "id": "affaire-vernier.unsent-letter",
         "name": "Lettre jamais envoyée",
         "icon": "letter"
-      }
+      },
+      "places": [
+        "atelier-vernier"
+      ]
     },
     {
       "number": 7,
@@ -132,7 +153,11 @@
         "id": "affaire-vernier.detective-badge",
         "name": "Insigne de détective",
         "icon": "badge"
-      }
+      },
+      "characters": [
+        "armand-vernier",
+        "inspecteur-lacombe"
+      ]
     }
   ],
   "finalSouvenir": {

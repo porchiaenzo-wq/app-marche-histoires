@@ -30,7 +30,13 @@
         "id": "grimoire-ambre.amber-shard",
         "name": "Éclat d'ambre",
         "icon": "gem"
-      }
+      },
+      "characters": [
+        "rose-delaunay"
+      ],
+      "places": [
+        "grenier-rose"
+      ]
     },
     {
       "number": 2,
@@ -81,7 +87,10 @@
         "id": "grimoire-ambre.brass-key",
         "name": "Clé de laiton",
         "icon": "key"
-      }
+      },
+      "places": [
+        "bibliotheque-cachee"
+      ]
     },
     {
       "number": 5,
@@ -98,7 +107,10 @@
         "id": "grimoire-ambre.candle",
         "name": "Bougie ensorcelée",
         "icon": "candle"
-      }
+      },
+      "characters": [
+        "ysolde"
+      ]
     },
     {
       "number": 6,
@@ -115,7 +127,10 @@
         "id": "grimoire-ambre.amber-seal",
         "name": "Sceau d'ambre",
         "icon": "seal"
-      }
+      },
+      "characters": [
+        "rose-delaunay"
+      ]
     }
   ],
   "finalSouvenir": {

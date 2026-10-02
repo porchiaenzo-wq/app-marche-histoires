@@ -30,7 +30,10 @@
         "id": "ile-aux-cartes.blank-chart",
         "name": "Carte vierge",
         "icon": "map"
-      }
+      },
+      "places": [
+        "port-aven"
+      ]
     },
     {
       "number": 2,
@@ -47,7 +50,13 @@
         "id": "ile-aux-cartes.ship-bell",
         "name": "Cloche de navire",
         "icon": "bell"
-      }
+      },
+      "characters": [
+        "oriane-kerval"
+      ],
+      "places": [
+        "port-aven"
+      ]
     },
     {
       "number": 3,
@@ -64,7 +73,10 @@
         "id": "ile-aux-cartes.sextant",
         "name": "Sextant",
         "icon": "compass"
-      }
+      },
+      "characters": [
+        "oriane-kerval"
+      ]
     },
     {
       "number": 4,
@@ -81,7 +93,10 @@
         "id": "ile-aux-cartes.seashell",
         "name": "Coquillage gravé",
         "icon": "shell"
-      }
+      },
+      "places": [
+        "ile-sans-nom"
+      ]
     },
     {
       "number": 5,
@@ -98,7 +113,10 @@
         "id": "ile-aux-cartes.ink-pot",
         "name": "Encrier d'argent",
         "icon": "ink"
-      }
+      },
+      "characters": [
+        "elise-marrec"
+      ]
     },
     {
       "number": 6,
@@ -115,7 +133,10 @@
         "id": "ile-aux-cartes.star-chart",
         "name": "Carte des étoiles",
         "icon": "star"
-      }
+      },
+      "places": [
+        "ile-sans-nom"
+      ]
     }
   ],
   "finalSouvenir": {

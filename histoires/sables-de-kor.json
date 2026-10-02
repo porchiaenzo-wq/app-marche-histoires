@@ -30,7 +30,10 @@
         "id": "sables-de-kor.water-flask",
         "name": "Gourde de cuir",
         "icon": "flask"
-      }
+      },
+      "characters": [
+        "mehdi-saad"
+      ]
     },
     {
       "number": 2,
@@ -64,7 +67,10 @@
         "id": "sables-de-kor.bronze-coin",
         "name": "Pièce de bronze",
         "icon": "coin"
-      }
+      },
+      "places": [
+        "cite-de-kor"
+      ]
     },
     {
       "number": 4,
@@ -98,7 +104,10 @@
         "id": "sables-de-kor.wind-chime",
         "name": "Carillon",
         "icon": "bell"
-      }
+      },
+      "places": [
+        "cite-de-kor"
+      ]
     },
     {
       "number": 6,
@@ -115,7 +124,10 @@
         "id": "sables-de-kor.hourglass",
         "name": "Sablier",
         "icon": "hourglass"
-      }
+      },
+      "characters": [
+        "armand-vernier"
+      ]
     },
     {
       "number": 7,
@@ -132,7 +144,10 @@
         "id": "sables-de-kor.desert-rose",
         "name": "Rose des sables",
         "icon": "rose"
-      }
+      },
+      "characters": [
+        "mehdi-saad"
+      ]
     }
   ],
   "finalSouvenir": {

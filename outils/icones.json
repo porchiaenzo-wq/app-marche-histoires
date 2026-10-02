@@ -36,5 +36,20 @@
     "stone",
     "umbrella",
     "watch"
+  ],
+  "lieux": [
+    "lighthouse",
+    "castle",
+    "harbor",
+    "island",
+    "desert",
+    "house",
+    "library",
+    "forest",
+    "clock",
+    "bridge",
+    "mountain",
+    "tower",
+    "city"
   ]
 }

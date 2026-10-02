@@ -1,0 +1,188 @@
+{
+  "characters": [
+    {
+      "id": "elise-marrec",
+      "name": "Élise Marrec",
+      "role": "La cartographe",
+      "description": "(Texte provisoire.) Elle dessine des cartes de lieux que personne n'a jamais vus, et elle a la fâcheuse habitude d'avoir raison. On la croise toujours là où une carte s'arrête.",
+      "secret": {
+        "title": "Le carnet d'Élise",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Dans la doublure de sa sacoche, Élise garde un carnet qu'elle n'a jamais montré à personne.",
+          "Chaque page y décrit un lieu qu'elle n'a pas encore visité… et que personne d'autre n'a dessiné avant elle."
+        ]
+      }
+    },
+    {
+      "id": "armand-vernier",
+      "name": "Armand Vernier",
+      "role": "L'horloger disparu",
+      "description": "(Texte provisoire.) Horloger respecté, homme d'habitudes. Ses montres ne retardent jamais d'une seconde, et pourtant il semble toujours arriver trop tard.",
+      "secret": {
+        "title": "Les montres arrêtées",
+        "stepsRequired": 25000,
+        "text": [
+          "(Texte provisoire.) Dans son atelier, une vitrine entière de montres arrêtées à la même heure : 21 h 17.",
+          "Vernier ne les a jamais réparées. Il dit qu'elles attendent quelqu'un."
+        ]
+      }
+    },
+    {
+      "id": "oriane-kerval",
+      "name": "Oriane Kerval",
+      "role": "La navigatrice",
+      "description": "(Texte provisoire.) Capitaine d'un trois-mâts qui n'a peur ni des courants ni des légendes. Elle connaît toutes les côtes, sauf une.",
+      "secret": {
+        "title": "Le journal de bord",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) La dernière page du journal de bord d'Oriane est datée d'une nuit de naufrage, cent ans avant sa naissance.",
+          "L'écriture est la sienne."
+        ]
+      }
+    },
+    {
+      "id": "gardien-du-phare",
+      "name": "Yann Le Goff",
+      "role": "Le gardien du phare",
+      "description": "(Texte provisoire.) Il veille sur un phare éteint depuis un siècle, et il ne dit jamais pourquoi il continue de monter l'escalier chaque soir.",
+      "secret": {
+        "title": "Ce que voit le gardien",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) Chaque soir, depuis le haut du phare, Yann compte les lumières en mer.",
+          "Il y en a toujours une de trop."
+        ]
+      }
+    },
+    {
+      "id": "ysolde",
+      "name": "Ysolde",
+      "role": "La gardienne des Murmures",
+      "description": "(Texte provisoire.) Personne ne sait son âge. Les arbres lui obéissent, les lecteurs un peu moins.",
+      "secret": {
+        "title": "Le nom véritable",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Ysolde n'est pas son vrai nom : c'est celui que la forêt lui a donné.",
+          "Le vrai est écrit quelque part, dans un grimoire à la couverture d'ambre."
+        ]
+      }
+    },
+    {
+      "id": "rose-delaunay",
+      "name": "Rose Delaunay",
+      "role": "La grand-mère au grimoire",
+      "description": "(Texte provisoire.) Elle a laissé derrière elle un grenier plein de mystères, et un livre qui continue d'écrire son histoire.",
+      "secret": {
+        "title": "Les lettres de Rose",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Dans une boîte à couture, une liasse de lettres adressées à « la personne qui trouvera le grimoire ».",
+          "La plus ancienne date de soixante ans."
+        ]
+      }
+    },
+    {
+      "id": "mehdi-saad",
+      "name": "Mehdi Saad",
+      "role": "Le guide des caravanes",
+      "description": "(Texte provisoire.) Il lit le désert comme d'autres lisent un livre, et ne se perd jamais. Presque jamais.",
+      "secret": {
+        "title": "La dune qui chante",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) Enfant, Mehdi a entendu une dune chanter son prénom.",
+          "Il est revenu chaque année au même endroit. Elle ne s'est plus jamais tue."
+        ]
+      }
+    },
+    {
+      "id": "inspecteur-lacombe",
+      "name": "Paul Lacombe",
+      "role": "L'inspecteur",
+      "description": "(Texte provisoire.) Trente ans de métier, un imperméable trop grand et une patience infinie pour les mensonges des autres.",
+      "secret": {
+        "title": "Le dossier jamais classé",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Dans le tiroir de Lacombe, un dossier jamais classé porte un seul mot : « Brumes ».",
+          "Il ne l'ouvre qu'une fois par an."
+        ]
+      }
+    }
+  ],
+  "places": [
+    {
+      "id": "port-aven",
+      "name": "Port-Aven",
+      "region": "Côte des Brumes",
+      "icon": "harbor",
+      "description": "(Texte provisoire.) Un port de pêche où tout le monde se connaît, et où personne ne parle du phare."
+    },
+    {
+      "id": "chateau-de-kerval",
+      "name": "Château de Kerval",
+      "region": "Côte des Brumes",
+      "icon": "castle",
+      "description": "(Texte provisoire.) Une forteresse en ruine accrochée à la falaise. Ses cartes sont plus anciennes que ses murs."
+    },
+    {
+      "id": "phare-des-brumes",
+      "name": "Le phare des Brumes",
+      "region": "Côte des Brumes",
+      "icon": "lighthouse",
+      "description": "(Texte provisoire.) Éteint depuis cent ans. Certains soirs, pourtant, on jurerait voir briller sa lanterne."
+    },
+    {
+      "id": "ile-sans-nom",
+      "name": "L'île sans nom",
+      "region": "Mer intérieure",
+      "icon": "island",
+      "description": "(Texte provisoire.) Absente de toutes les cartes du monde, sauf d'une seule."
+    },
+    {
+      "id": "cite-de-kor",
+      "name": "La cité de Kor",
+      "region": "Désert de Kor",
+      "icon": "desert",
+      "description": "(Texte provisoire.) Engloutie par le sable, elle ne se montre qu'une fois par siècle."
+    },
+    {
+      "id": "grenier-rose",
+      "name": "Le grenier de Rose",
+      "region": "Maison Delaunay",
+      "icon": "house",
+      "description": "(Texte provisoire.) Des malles, des cartons, une lucarne… et un livre qui n'attendait que toi."
+    },
+    {
+      "id": "bibliotheque-cachee",
+      "name": "La bibliothèque cachée",
+      "region": "Sous la ville",
+      "icon": "library",
+      "description": "(Texte provisoire.) Des étagères à perte de vue, et des livres qui s'écrivent tout seuls."
+    },
+    {
+      "id": "foret-des-murmures",
+      "name": "La forêt des Murmures",
+      "region": "Les Hautes-Terres",
+      "icon": "forest",
+      "description": "(Texte provisoire.) Ses arbres retiennent tout ce qu'on leur confie, et le répètent parfois."
+    },
+    {
+      "id": "atelier-vernier",
+      "name": "L'atelier Vernier",
+      "region": "Rue des Horlogers",
+      "icon": "clock",
+      "description": "(Texte provisoire.) Un atelier où toutes les horloges tournent, sauf une vitrine entière."
+    },
+    {
+      "id": "quai-saint-roch",
+      "name": "Le quai Saint-Roch",
+      "region": "Bord du fleuve",
+      "icon": "bridge",
+      "description": "(Texte provisoire.) Un quai désert à la nuit tombée. Le dernier endroit où l'on a vu Vernier."
+    }
+  ]
+}

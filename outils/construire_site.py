@@ -5,7 +5,9 @@ L'app lit :
 - v1/catalogue.json : la liste des histoires, avec une « révision » par
   histoire (calculée à partir du contenu du fichier) ; l'app ne
   retélécharge une histoire que si sa révision a changé ;
-- v1/histoires/<id>.json : chaque histoire.
+- v1/histoires/<id>.json : chaque histoire ;
+- v1/univers.json : les personnages et les lieux partagés entre les
+  histoires (Panthéon et timbres), avec sa révision dans le catalogue.
 
 Le « v1 » permettra de changer de format plus tard sans casser les
 anciennes versions de l'app.
@@ -34,6 +36,12 @@ def main():
         (SORTIE / "histoires" / f"{i}.json").write_bytes(contenu)
         revision = hashlib.sha256(contenu).hexdigest()[:12]
         catalogue["stories"].append({"id": i, "revision": revision})
+
+    univers = SOURCE / "univers.json"
+    if univers.exists():
+        contenu = univers.read_bytes()
+        (SORTIE / "univers.json").write_bytes(contenu)
+        catalogue["univers"] = {"revision": hashlib.sha256(contenu).hexdigest()[:12]}
 
     (SORTIE / "catalogue.json").write_text(
         json.dumps(catalogue, ensure_ascii=False, indent=2), "utf-8"

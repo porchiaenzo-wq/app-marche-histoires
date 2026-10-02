@@ -30,7 +30,10 @@
         "id": "route-des-brumes.torn-map",
         "name": "Carte déchirée",
         "icon": "map"
-      }
+      },
+      "characters": [
+        "elise-marrec"
+      ]
     },
     {
       "number": 2,
@@ -47,7 +50,10 @@
         "id": "route-des-brumes.sealed-letter",
         "name": "Lettre scellée",
         "icon": "letter"
-      }
+      },
+      "places": [
+        "port-aven"
+      ]
     },
     {
       "number": 3,
@@ -64,7 +70,10 @@
         "id": "route-des-brumes.compass",
         "name": "Boussole",
         "icon": "compass"
-      }
+      },
+      "characters": [
+        "elise-marrec"
+      ]
     },
     {
       "number": 4,
@@ -81,7 +90,10 @@
         "id": "route-des-brumes.rusty-key",
         "name": "Clé rouillée",
         "icon": "key"
-      }
+      },
+      "places": [
+        "chateau-de-kerval"
+      ]
     },
     {
       "number": 5,
@@ -115,7 +127,13 @@
         "id": "route-des-brumes.spyglass",
         "name": "Longue-vue",
         "icon": "spyglass"
-      }
+      },
+      "characters": [
+        "gardien-du-phare"
+      ],
+      "places": [
+        "phare-des-brumes"
+      ]
     },
     {
       "number": 7,
@@ -132,7 +150,10 @@
         "id": "route-des-brumes.locket",
         "name": "Médaillon terni",
         "icon": "locket"
-      }
+      },
+      "characters": [
+        "oriane-kerval"
+      ]
     },
     {
       "number": 8,
@@ -149,7 +170,14 @@
         "id": "route-des-brumes.lit-lantern",
         "name": "Lanterne rallumée",
         "icon": "lantern"
-      }
+      },
+      "characters": [
+        "gardien-du-phare",
+        "elise-marrec"
+      ],
+      "places": [
+        "phare-des-brumes"
+      ]
     }
   ],
   "finalSouvenir": {

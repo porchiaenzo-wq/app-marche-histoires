@@ -30,7 +30,10 @@
         "id": "foret-des-murmures.oak-leaf",
         "name": "Feuille de chêne",
         "icon": "leaf"
-      }
+      },
+      "places": [
+        "foret-des-murmures"
+      ]
     },
     {
       "number": 2,
@@ -81,7 +84,10 @@
         "id": "foret-des-murmures.carved-bark",
         "name": "Écorce gravée",
         "icon": "bark"
-      }
+      },
+      "places": [
+        "foret-des-murmures"
+      ]
     },
     {
       "number": 5,
@@ -98,7 +104,10 @@
         "id": "foret-des-murmures.wooden-flute",
         "name": "Flûte de sureau",
         "icon": "flute"
-      }
+      },
+      "characters": [
+        "ysolde"
+      ]
     },
     {
       "number": 6,
@@ -132,7 +141,11 @@
         "id": "foret-des-murmures.silver-seed",
         "name": "Graine d'argent",
         "icon": "seed"
-      }
+      },
+      "characters": [
+        "ysolde",
+        "rose-delaunay"
+      ]
     }
   ],
   "finalSouvenir": {
