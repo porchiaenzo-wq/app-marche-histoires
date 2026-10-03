@@ -93,7 +93,10 @@
         "id": "affaire-vernier.notebook",
         "name": "Carnet noir",
         "icon": "notebook"
-      }
+      },
+      "characters": [
+        "le-maitre-de-ceremonie"
+      ]
     },
     {
       "number": 5,

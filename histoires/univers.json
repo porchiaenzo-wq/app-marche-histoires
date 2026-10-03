@@ -119,6 +119,146 @@
           "Ce n'est pas celui de sa femme."
         ]
       }
+    },
+    {
+      "id": "le-roi",
+      "name": "Le roi",
+      "role": "Le souverain fatigué",
+      "description": "(Texte provisoire.) Un vieux roi, usé par sa couronne plus que par les années.",
+      "portrait": "images/personnages/le-roi.jpg",
+      "portraitFocus": {
+        "x": 0.55,
+        "y": 0.36,
+        "size": 0.62
+      },
+      "secret": {
+        "title": "La couronne trop lourde",
+        "stepsRequired": 25000,
+        "text": [
+          "(Texte provisoire.) Il ne dort jamais la couronne loin de lui.",
+          "Il craint qu'au réveil, elle ne soit plus à sa taille."
+        ]
+      }
+    },
+    {
+      "id": "la-reine",
+      "name": "La reine",
+      "role": "La gardienne des clés",
+      "description": "(Texte provisoire.) Port altier, regard froid : rien n'entre au palais sans qu'elle le sache.",
+      "portrait": "images/personnages/la-reine.jpg",
+      "portraitFocus": {
+        "x": 0.48,
+        "y": 0.3,
+        "size": 0.56
+      },
+      "secret": {
+        "title": "La clé du cou",
+        "stepsRequired": 25000,
+        "text": [
+          "(Texte provisoire.) La clé qu'elle porte n'ouvre aucune porte du palais.",
+          "Elle ouvre une porte qui n'existe pas encore."
+        ]
+      }
+    },
+    {
+      "id": "le-chevalier",
+      "name": "Le chevalier",
+      "role": "Le serment cabossé",
+      "description": "(Texte provisoire.) Une armure couverte d'entailles, un honneur resté intact.",
+      "portrait": "images/personnages/le-chevalier.jpg",
+      "portraitFocus": {
+        "x": 0.45,
+        "y": 0.2,
+        "size": 0.45
+      },
+      "secret": {
+        "title": "Le nom sous le heaume",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Personne ne l'a jamais vu sans son heaume.",
+          "Ceux qui disent l'avoir vu jurent qu'il avait leur visage."
+        ]
+      }
+    },
+    {
+      "id": "le-fou",
+      "name": "Le fou",
+      "role": "Le rire du roi",
+      "description": "(Texte provisoire.) Il fait rire la cour, et c'est souvent lui qui dit la vérité.",
+      "portrait": "images/personnages/le-fou.jpg",
+      "portraitFocus": {
+        "x": 0.6,
+        "y": 0.36,
+        "size": 0.6
+      },
+      "secret": {
+        "title": "La marotte",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) La petite tête sculptée de sa marotte lui ressemble trait pour trait.",
+          "Elle sourit quand il pleure."
+        ]
+      }
+    },
+    {
+      "id": "le-maitre-de-ceremonie",
+      "name": "Le maître de cérémonie",
+      "role": "La voix du spectacle",
+      "description": "(Texte provisoire.) Un sourire trop large, une canne d'argent : c'est lui qui annonce la suite.",
+      "portrait": "images/personnages/le-maitre-de-ceremonie.jpg",
+      "portraitFocus": {
+        "x": 0.47,
+        "y": 0.44,
+        "size": 0.6
+      },
+      "secret": {
+        "title": "Le programme",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Il connaît toujours le programme de la soirée.",
+          "Même quand personne ne l'a encore écrit."
+        ]
+      }
+    },
+    {
+      "id": "le-messager",
+      "name": "Le messager",
+      "role": "Le porteur de nouvelles",
+      "description": "(Texte provisoire.) Toujours pressé, toujours essoufflé, il arrive avec la nouvelle qui change tout.",
+      "portrait": "images/personnages/le-messager.jpg",
+      "portraitFocus": {
+        "x": 0.47,
+        "y": 0.34,
+        "size": 0.5
+      },
+      "secret": {
+        "title": "La lettre sans adresse",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) Une seule lettre de sa sacoche n'a jamais été livrée.",
+          "Elle porte ton nom."
+        ]
+      }
+    },
+    {
+      "id": "les-gardes",
+      "name": "Les gardes",
+      "role": "Les deux sentinelles",
+      "description": "(Texte provisoire.) Deux silhouettes identiques qui ne parlent jamais, sauf entre elles.",
+      "portrait": "images/personnages/les-gardes.jpg",
+      "portraitFocus": {
+        "x": 0.53,
+        "y": 0.3,
+        "size": 0.72
+      },
+      "secret": {
+        "title": "Le mot de passe",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Ils changent de mot de passe chaque nuit.",
+          "Ils sont les seuls à savoir qui le leur donne."
+        ]
+      }
     }
   ],
   "places": [

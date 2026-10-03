@@ -105,6 +105,9 @@
         "name": "Carillon",
         "icon": "bell"
       },
+      "characters": [
+        "les-gardes"
+      ],
       "places": [
         "cite-de-kor"
       ]

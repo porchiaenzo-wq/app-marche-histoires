@@ -91,6 +91,9 @@
         "name": "Clé rouillée",
         "icon": "key"
       },
+      "characters": [
+        "le-roi"
+      ],
       "places": [
         "chateau-de-kerval"
       ]
@@ -110,7 +113,10 @@
         "id": "route-des-brumes.golden-quill",
         "name": "Plume d'or",
         "icon": "quill"
-      }
+      },
+      "characters": [
+        "le-chevalier"
+      ]
     },
     {
       "number": 6,

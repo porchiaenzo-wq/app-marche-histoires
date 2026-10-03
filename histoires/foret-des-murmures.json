@@ -67,7 +67,10 @@
         "id": "foret-des-murmures.firefly-jar",
         "name": "Bocal de lucioles",
         "icon": "jar"
-      }
+      },
+      "characters": [
+        "le-fou"
+      ]
     },
     {
       "number": 4,

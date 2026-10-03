@@ -31,6 +31,9 @@
         "name": "Carte vierge",
         "icon": "map"
       },
+      "characters": [
+        "le-messager"
+      ],
       "places": [
         "port-aven"
       ]

@@ -88,6 +88,9 @@
         "name": "Clé de laiton",
         "icon": "key"
       },
+      "characters": [
+        "la-reine"
+      ],
       "places": [
         "bibliotheque-cachee"
       ]
