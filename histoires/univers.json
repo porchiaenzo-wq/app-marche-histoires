@@ -439,6 +439,26 @@
           "Ils viennent d'un autre livre."
         ]
       }
+    },
+    {
+      "id": "les-gamins-des-rues",
+      "name": "Les gamins des rues",
+      "role": "La bande des pavés",
+      "description": "(Texte provisoire.) Trois gamins espiègles qui connaissent chaque ruelle, chaque toit et chaque marchand distrait.",
+      "portrait": "images/personnages/les-gamins-des-rues.jpg",
+      "portraitFocus": {
+        "x": 0.5,
+        "y": 0.35,
+        "size": 0.75
+      },
+      "secret": {
+        "title": "La pomme volée",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) Ils ne volent jamais que des pommes.",
+          "Et ils en laissent toujours une sur le rebord de la fenêtre de la vieille dame du quai."
+        ]
+      }
     }
   ],
   "places": [
