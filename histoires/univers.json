@@ -259,6 +259,186 @@
           "Ils sont les seuls à savoir qui le leur donne."
         ]
       }
+    },
+    {
+      "id": "l-aubergiste",
+      "name": "L'aubergiste",
+      "role": "Celui qui sait tout",
+      "description": "(Texte provisoire.) Jovial, la chope toujours pleine : il connaît les secrets de tous ceux qui passent sa porte.",
+      "portrait": "images/personnages/l-aubergiste.jpg",
+      "portraitFocus": {
+        "x": 0.51,
+        "y": 0.27,
+        "size": 0.55
+      },
+      "secret": {
+        "title": "Le registre",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) Il note chaque voyageur dans un vieux registre.",
+          "Certains noms y sont écrits avant même que les voyageurs n'arrivent."
+        ]
+      }
+    },
+    {
+      "id": "l-homme-fort",
+      "name": "L'homme fort",
+      "role": "L'hercule de foire",
+      "description": "(Texte provisoire.) Il soulève des haltères devant la foule en riant, et porte bien plus lourd en secret.",
+      "portrait": "images/personnages/l-homme-fort.jpg",
+      "portraitFocus": {
+        "x": 0.54,
+        "y": 0.25,
+        "size": 0.5
+      },
+      "secret": {
+        "title": "Le poids invisible",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) Ses haltères sont creuses.",
+          "Ce qu'il porte vraiment, personne ne le voit."
+        ]
+      }
+    },
+    {
+      "id": "l-ourse-dansante",
+      "name": "L'ourse dansante",
+      "role": "La danseuse de foire",
+      "description": "(Texte provisoire.) Une ourse en chapeau à plume, plus digne et plus sage que ceux qui la regardent danser.",
+      "portrait": "images/personnages/l-ourse-dansante.jpg",
+      "portraitFocus": {
+        "x": 0.5,
+        "y": 0.3,
+        "size": 0.6
+      },
+      "secret": {
+        "title": "La valse",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Elle ne danse que sur une seule valse.",
+          "Celle que jouait sa première dresseuse, disparue un soir d'orage."
+        ]
+      }
+    },
+    {
+      "id": "le-pirate",
+      "name": "Le pirate",
+      "role": "Le loup des mers",
+      "description": "(Texte provisoire.) Hâlé, rusé, une longue-vue à l'épaule : il connaît toutes les côtes, et toutes les cachettes.",
+      "portrait": "images/personnages/le-pirate.jpg",
+      "portraitFocus": {
+        "x": 0.45,
+        "y": 0.28,
+        "size": 0.55
+      },
+      "secret": {
+        "title": "La carte tatouée",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Il a une carte tatouée dans le dos.",
+          "Il ne l'a jamais vue lui-même."
+        ]
+      }
+    },
+    {
+      "id": "le-prisonnier",
+      "name": "Le prisonnier",
+      "role": "L'évadé",
+      "description": "(Texte provisoire.) Amaigri, la chaîne brisée encore au poignet, il n'a jamais renoncé.",
+      "portrait": "images/personnages/le-prisonnier.jpg",
+      "portraitFocus": {
+        "x": 0.49,
+        "y": 0.25,
+        "size": 0.52
+      },
+      "secret": {
+        "title": "La cellule 13",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Il s'est évadé de la cellule 13.",
+          "Elle n'avait ni porte ni fenêtre."
+        ]
+      }
+    },
+    {
+      "id": "le-sniper",
+      "name": "Le sniper",
+      "role": "L'œil patient",
+      "description": "(Texte provisoire.) Caché sous son manteau de feuillage, il attend des heures sans bouger.",
+      "portrait": "images/personnages/le-sniper.jpg",
+      "portraitFocus": {
+        "x": 0.5,
+        "y": 0.45,
+        "size": 0.55
+      },
+      "secret": {
+        "title": "La dernière cible",
+        "stepsRequired": 25000,
+        "text": [
+          "(Texte provisoire.) Il n'a jamais manqué une cible.",
+          "Sauf une, qu'il a choisi de manquer."
+        ]
+      }
+    },
+    {
+      "id": "le-vagabond",
+      "name": "Le vagabond",
+      "role": "L'homme sans attache",
+      "description": "(Texte provisoire.) Il va de village en village, son baluchon sur l'épaule, plus sage qu'il n'en a l'air.",
+      "portrait": "images/personnages/le-vagabond.jpg",
+      "portraitFocus": {
+        "x": 0.46,
+        "y": 0.37,
+        "size": 0.55
+      },
+      "secret": {
+        "title": "Le baluchon",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) Personne ne sait ce qu'il garde dans son baluchon.",
+          "Il dit que c'est tout ce qu'il a perdu."
+        ]
+      }
+    },
+    {
+      "id": "les-marginaux",
+      "name": "Les marginaux",
+      "role": "La bande de l'ombre",
+      "description": "(Texte provisoire.) Une petite bande serrée à l'écart des feux, méfiante et soudée.",
+      "portrait": "images/personnages/les-marginaux.jpg",
+      "portraitFocus": {
+        "x": 0.5,
+        "y": 0.3,
+        "size": 0.78
+      },
+      "secret": {
+        "title": "Le serment",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Ils se sont juré de ne jamais se séparer.",
+          "L'un d'eux l'a déjà trahi."
+        ]
+      }
+    },
+    {
+      "id": "les-visiteurs",
+      "name": "Les visiteurs",
+      "role": "Ceux venus d'ailleurs",
+      "description": "(Texte provisoire.) Trois étranges voyageurs, mi-hommes mi-bêtes des marais, que personne n'a vus arriver.",
+      "portrait": "images/personnages/les-visiteurs.jpg",
+      "portraitFocus": {
+        "x": 0.5,
+        "y": 0.3,
+        "size": 0.8
+      },
+      "secret": {
+        "title": "D'où ils viennent",
+        "stepsRequired": 25000,
+        "text": [
+          "(Texte provisoire.) Ils ne viennent pas d'un autre pays.",
+          "Ils viennent d'un autre livre."
+        ]
+      }
     }
   ],
   "places": [

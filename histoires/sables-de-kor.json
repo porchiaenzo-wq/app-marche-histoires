@@ -50,7 +50,10 @@
         "id": "sables-de-kor.scarf",
         "name": "Chèche bleu",
         "icon": "scarf"
-      }
+      },
+      "characters": [
+        "l-homme-fort"
+      ]
     },
     {
       "number": 3,
@@ -87,7 +90,10 @@
         "id": "sables-de-kor.teacup",
         "name": "Tasse de cuivre",
         "icon": "cup"
-      }
+      },
+      "characters": [
+        "les-marginaux"
+      ]
     },
     {
       "number": 5,

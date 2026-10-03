@@ -115,7 +115,8 @@
         "icon": "umbrella"
       },
       "characters": [
-        "le-mari"
+        "le-mari",
+        "le-sniper"
       ],
       "places": [
         "quai-saint-roch"
@@ -137,6 +138,9 @@
         "name": "Lettre jamais envoyée",
         "icon": "letter"
       },
+      "characters": [
+        "le-prisonnier"
+      ],
       "places": [
         "atelier-vernier"
       ]

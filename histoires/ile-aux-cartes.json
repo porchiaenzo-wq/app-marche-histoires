@@ -97,6 +97,9 @@
         "name": "Coquillage gravé",
         "icon": "shell"
       },
+      "characters": [
+        "le-pirate"
+      ],
       "places": [
         "ile-sans-nom"
       ]

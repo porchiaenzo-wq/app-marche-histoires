@@ -51,6 +51,9 @@
         "name": "Lettre scellée",
         "icon": "letter"
       },
+      "characters": [
+        "l-aubergiste"
+      ],
       "places": [
         "port-aven"
       ]

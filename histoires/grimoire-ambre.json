@@ -70,7 +70,10 @@
         "id": "grimoire-ambre.ink-vial",
         "name": "Fiole d'encre",
         "icon": "ink"
-      }
+      },
+      "characters": [
+        "les-visiteurs"
+      ]
     },
     {
       "number": 4,

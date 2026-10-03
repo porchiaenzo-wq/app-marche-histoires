@@ -31,6 +31,9 @@
         "name": "Feuille de chêne",
         "icon": "leaf"
       },
+      "characters": [
+        "le-vagabond"
+      ],
       "places": [
         "foret-des-murmures"
       ]
@@ -50,7 +53,10 @@
         "id": "foret-des-murmures.acorn",
         "name": "Gland doré",
         "icon": "acorn"
-      }
+      },
+      "characters": [
+        "l-ourse-dansante"
+      ]
     },
     {
       "number": 3,
