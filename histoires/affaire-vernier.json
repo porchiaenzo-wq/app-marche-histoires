@@ -32,7 +32,7 @@
         "icon": "watch"
       },
       "characters": [
-        "armand-vernier"
+        "le-mari"
       ],
       "places": [
         "atelier-vernier"
@@ -55,7 +55,7 @@
         "icon": "footprint"
       },
       "characters": [
-        "inspecteur-lacombe"
+        "l-amant"
       ]
     },
     {
@@ -75,7 +75,7 @@
         "icon": "photo"
       },
       "characters": [
-        "elise-marrec"
+        "le-heros"
       ]
     },
     {
@@ -112,7 +112,7 @@
         "icon": "umbrella"
       },
       "characters": [
-        "inspecteur-lacombe"
+        "le-mari"
       ],
       "places": [
         "quai-saint-roch"
@@ -155,8 +155,8 @@
         "icon": "badge"
       },
       "characters": [
-        "armand-vernier",
-        "inspecteur-lacombe"
+        "le-mari",
+        "l-amant"
       ]
     }
   ],

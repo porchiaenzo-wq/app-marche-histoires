@@ -1,114 +1,122 @@
 {
   "characters": [
     {
-      "id": "elise-marrec",
-      "name": "Élise Marrec",
-      "role": "La cartographe",
-      "description": "(Texte provisoire.) Elle dessine des cartes de lieux que personne n'a jamais vus, et elle a la fâcheuse habitude d'avoir raison. On la croise toujours là où une carte s'arrête.",
+      "id": "le-heros",
+      "name": "Le héros",
+      "role": "Le voyageur",
+      "description": "(Texte provisoire.) Un jeune voyageur au regard décidé. Il ne sait pas encore ce qu'il cherche, mais sa boussole, elle, semble le savoir.",
+      "portrait": "images/personnages/le-heros.jpg",
+      "portraitFocus": {
+        "x": 0.55,
+        "y": 0.24,
+        "size": 0.58
+      },
       "secret": {
-        "title": "Le carnet d'Élise",
+        "title": "La boussole qui ment",
         "stepsRequired": 20000,
         "text": [
-          "(Texte provisoire.) Dans la doublure de sa sacoche, Élise garde un carnet qu'elle n'a jamais montré à personne.",
-          "Chaque page y décrit un lieu qu'elle n'a pas encore visité… et que personne d'autre n'a dessiné avant elle."
+          "(Texte provisoire.) Sa boussole n'indique jamais le nord.",
+          "Elle indique toujours l'endroit où quelqu'un a besoin de lui."
         ]
       }
     },
     {
-      "id": "armand-vernier",
-      "name": "Armand Vernier",
-      "role": "L'horloger disparu",
-      "description": "(Texte provisoire.) Horloger respecté, homme d'habitudes. Ses montres ne retardent jamais d'une seconde, et pourtant il semble toujours arriver trop tard.",
+      "id": "la-fille",
+      "name": "La fille",
+      "role": "L'éclaireuse",
+      "description": "(Texte provisoire.) Curieuse et débrouillarde, elle passe toujours la première, sa lanterne à la main.",
+      "portrait": "images/personnages/la-fille.jpg",
+      "portraitFocus": {
+        "x": 0.57,
+        "y": 0.24,
+        "size": 0.58
+      },
       "secret": {
-        "title": "Les montres arrêtées",
+        "title": "La lanterne qui ne s'éteint pas",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Sa lanterne n'a jamais eu besoin d'huile.",
+          "Elle l'a trouvée allumée, un soir d'hiver, devant une porte qui n'existait pas."
+        ]
+      }
+    },
+    {
+      "id": "le-garcon",
+      "name": "Le garçon",
+      "role": "Le gamin à la fronde",
+      "description": "(Texte provisoire.) Malicieux, rapide, il connaît tous les raccourcis et la moitié des secrets du village.",
+      "portrait": "images/personnages/le-garcon.jpg",
+      "portraitFocus": {
+        "x": 0.53,
+        "y": 0.28,
+        "size": 0.58
+      },
+      "secret": {
+        "title": "La pierre du ruisseau",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) Il ne tire jamais qu'avec la même pierre.",
+          "Il la ramasse toujours après, même quand elle tombe au fond d'un puits."
+        ]
+      }
+    },
+    {
+      "id": "les-jumeaux",
+      "name": "Les jumeaux",
+      "role": "Les deux moitiés",
+      "description": "(Texte provisoire.) Deux visages presque identiques, et un médaillon cassé en deux qu'ils ne quittent jamais.",
+      "portrait": "images/personnages/les-jumeaux.jpg",
+      "portraitFocus": {
+        "x": 0.5,
+        "y": 0.3,
+        "size": 0.72
+      },
+      "secret": {
+        "title": "Le médaillon cassé",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Chacun porte une moitié du médaillon.",
+          "Réunies, les deux moitiés dessinent une carte que personne n'a encore su lire."
+        ]
+      }
+    },
+    {
+      "id": "l-amant",
+      "name": "L'amant",
+      "role": "Le cœur battant",
+      "description": "(Texte provisoire.) Romantique et un peu théâtral, il garde contre lui une lettre qu'il n'a jamais osé envoyer.",
+      "portrait": "images/personnages/l-amant.jpg",
+      "portraitFocus": {
+        "x": 0.57,
+        "y": 0.22,
+        "size": 0.58
+      },
+      "secret": {
+        "title": "La lettre scellée",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) La lettre est adressée à quelqu'un qu'il n'a jamais rencontré.",
+          "Pourtant, il connaît son nom depuis toujours."
+        ]
+      }
+    },
+    {
+      "id": "le-mari",
+      "name": "Le mari",
+      "role": "L'homme respectable",
+      "description": "(Texte provisoire.) Une redingote impeccable, des manières parfaites. Mais il tourne sans cesse son alliance, comme pour s'assurer qu'elle est toujours là.",
+      "portrait": "images/personnages/le-mari.jpg",
+      "portraitFocus": {
+        "x": 0.5,
+        "y": 0.25,
+        "size": 0.58
+      },
+      "secret": {
+        "title": "L'alliance",
         "stepsRequired": 25000,
         "text": [
-          "(Texte provisoire.) Dans son atelier, une vitrine entière de montres arrêtées à la même heure : 21 h 17.",
-          "Vernier ne les a jamais réparées. Il dit qu'elles attendent quelqu'un."
-        ]
-      }
-    },
-    {
-      "id": "oriane-kerval",
-      "name": "Oriane Kerval",
-      "role": "La navigatrice",
-      "description": "(Texte provisoire.) Capitaine d'un trois-mâts qui n'a peur ni des courants ni des légendes. Elle connaît toutes les côtes, sauf une.",
-      "secret": {
-        "title": "Le journal de bord",
-        "stepsRequired": 20000,
-        "text": [
-          "(Texte provisoire.) La dernière page du journal de bord d'Oriane est datée d'une nuit de naufrage, cent ans avant sa naissance.",
-          "L'écriture est la sienne."
-        ]
-      }
-    },
-    {
-      "id": "gardien-du-phare",
-      "name": "Yann Le Goff",
-      "role": "Le gardien du phare",
-      "description": "(Texte provisoire.) Il veille sur un phare éteint depuis un siècle, et il ne dit jamais pourquoi il continue de monter l'escalier chaque soir.",
-      "secret": {
-        "title": "Ce que voit le gardien",
-        "stepsRequired": 15000,
-        "text": [
-          "(Texte provisoire.) Chaque soir, depuis le haut du phare, Yann compte les lumières en mer.",
-          "Il y en a toujours une de trop."
-        ]
-      }
-    },
-    {
-      "id": "ysolde",
-      "name": "Ysolde",
-      "role": "La gardienne des Murmures",
-      "description": "(Texte provisoire.) Personne ne sait son âge. Les arbres lui obéissent, les lecteurs un peu moins.",
-      "secret": {
-        "title": "Le nom véritable",
-        "stepsRequired": 20000,
-        "text": [
-          "(Texte provisoire.) Ysolde n'est pas son vrai nom : c'est celui que la forêt lui a donné.",
-          "Le vrai est écrit quelque part, dans un grimoire à la couverture d'ambre."
-        ]
-      }
-    },
-    {
-      "id": "rose-delaunay",
-      "name": "Rose Delaunay",
-      "role": "La grand-mère au grimoire",
-      "description": "(Texte provisoire.) Elle a laissé derrière elle un grenier plein de mystères, et un livre qui continue d'écrire son histoire.",
-      "secret": {
-        "title": "Les lettres de Rose",
-        "stepsRequired": 20000,
-        "text": [
-          "(Texte provisoire.) Dans une boîte à couture, une liasse de lettres adressées à « la personne qui trouvera le grimoire ».",
-          "La plus ancienne date de soixante ans."
-        ]
-      }
-    },
-    {
-      "id": "mehdi-saad",
-      "name": "Mehdi Saad",
-      "role": "Le guide des caravanes",
-      "description": "(Texte provisoire.) Il lit le désert comme d'autres lisent un livre, et ne se perd jamais. Presque jamais.",
-      "secret": {
-        "title": "La dune qui chante",
-        "stepsRequired": 15000,
-        "text": [
-          "(Texte provisoire.) Enfant, Mehdi a entendu une dune chanter son prénom.",
-          "Il est revenu chaque année au même endroit. Elle ne s'est plus jamais tue."
-        ]
-      }
-    },
-    {
-      "id": "inspecteur-lacombe",
-      "name": "Paul Lacombe",
-      "role": "L'inspecteur",
-      "description": "(Texte provisoire.) Trente ans de métier, un imperméable trop grand et une patience infinie pour les mensonges des autres.",
-      "secret": {
-        "title": "Le dossier jamais classé",
-        "stepsRequired": 20000,
-        "text": [
-          "(Texte provisoire.) Dans le tiroir de Lacombe, un dossier jamais classé porte un seul mot : « Brumes ».",
-          "Il ne l'ouvre qu'une fois par an."
+          "(Texte provisoire.) À l'intérieur de son alliance, un nom est gravé.",
+          "Ce n'est pas celui de sa femme."
         ]
       }
     }

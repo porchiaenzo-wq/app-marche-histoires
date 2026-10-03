@@ -32,7 +32,7 @@
         "icon": "map"
       },
       "characters": [
-        "elise-marrec"
+        "le-heros"
       ]
     },
     {
@@ -72,7 +72,7 @@
         "icon": "compass"
       },
       "characters": [
-        "elise-marrec"
+        "le-heros"
       ]
     },
     {
@@ -129,7 +129,7 @@
         "icon": "spyglass"
       },
       "characters": [
-        "gardien-du-phare"
+        "le-garcon"
       ],
       "places": [
         "phare-des-brumes"
@@ -152,7 +152,7 @@
         "icon": "locket"
       },
       "characters": [
-        "oriane-kerval"
+        "la-fille"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "icon": "lantern"
       },
       "characters": [
-        "gardien-du-phare",
-        "elise-marrec"
+        "le-heros",
+        "la-fille"
       ],
       "places": [
         "phare-des-brumes"

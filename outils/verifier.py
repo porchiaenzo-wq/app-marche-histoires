@@ -76,7 +76,17 @@ def verifier_univers():
         personnages.add(pid)
         for champ in ("name", "role", "description"):
             texte(p, champ, oup)
-        texte(p, "portrait", oup, facultatif=True)
+        portrait = texte(p, "portrait", oup, facultatif=True)
+        if portrait and not portrait.startswith("https://"):
+            if not (RACINE / portrait).is_file():
+                erreur(oup, f"portrait « {portrait} » introuvable (dossier images/personnages/)")
+        cadrage = p.get("portraitFocus")
+        if cadrage is not None:
+            if not isinstance(cadrage, dict) or not all(
+                isinstance(cadrage.get(k), (int, float)) and 0 < cadrage[k] <= 1
+                for k in ("x", "y", "size")
+            ):
+                erreur(oup, "« portraitFocus » doit contenir x, y et size entre 0 et 1")
         secret = p.get("secret")
         if secret is not None:
             ous = f"{oup}, secret"

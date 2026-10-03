@@ -42,8 +42,11 @@ Les personnages et les lieux sont décrits **une seule fois** dans
 `univers.json`, puis cités par les chapitres où ils apparaissent. Un même
 personnage peut apparaître dans plusieurs histoires, de genres différents.
 
-- Un **personnage** : `id`, `name`, `role` (« La cartographe »),
-  `description`, `portrait` (image, facultatif, plus tard) et `secret`
+- Un **personnage** : `id`, `name`, `role` (« L'éclaireuse »),
+  `description`, `portrait` (image en noir et blanc, carrée, rangée dans
+  `images/personnages/<id>.jpg`), `portraitFocus` (facultatif : où est le
+  visage, de 0 à 1, pour le recadrage des petits médaillons, par exemple
+  `{"x": 0.55, "y": 0.25, "size": 0.6}`) et `secret`
   (facultatif) : `title`, `text` (paragraphes) et `stepsRequired`, le nombre
   de pas à faire **après la rencontre** pour le lire (20 000 par défaut,
   entre 5 000 et 100 000).

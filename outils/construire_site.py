@@ -6,6 +6,7 @@ L'app lit :
   histoire (calculée à partir du contenu du fichier) ; l'app ne
   retélécharge une histoire que si sa révision a changé ;
 - v1/histoires/<id>.json : chaque histoire ;
+- v1/images/… : les portraits des personnages ;
 - v1/univers.json : les personnages et les lieux partagés entre les
   histoires (Panthéon et timbres), avec sa révision dans le catalogue.
 
@@ -36,6 +37,11 @@ def main():
         (SORTIE / "histoires" / f"{i}.json").write_bytes(contenu)
         revision = hashlib.sha256(contenu).hexdigest()[:12]
         catalogue["stories"].append({"id": i, "revision": revision})
+
+    # Les images (portraits des personnages…), servies telles quelles.
+    images = RACINE / "images"
+    if images.exists():
+        shutil.copytree(images, SORTIE / "images")
 
     univers = SOURCE / "univers.json"
     if univers.exists():

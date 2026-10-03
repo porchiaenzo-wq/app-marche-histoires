@@ -32,7 +32,7 @@
         "icon": "flask"
       },
       "characters": [
-        "mehdi-saad"
+        "le-garcon"
       ]
     },
     {
@@ -124,10 +124,7 @@
         "id": "sables-de-kor.hourglass",
         "name": "Sablier",
         "icon": "hourglass"
-      },
-      "characters": [
-        "armand-vernier"
-      ]
+      }
     },
     {
       "number": 7,
@@ -146,7 +143,7 @@
         "icon": "rose"
       },
       "characters": [
-        "mehdi-saad"
+        "le-garcon"
       ]
     }
   ],
