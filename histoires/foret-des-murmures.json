@@ -94,6 +94,9 @@
         "name": "Écorce gravée",
         "icon": "bark"
       },
+      "characters": [
+        "l-ermite"
+      ],
       "places": [
         "foret-des-murmures"
       ]
@@ -133,7 +136,10 @@
         "id": "foret-des-murmures.moss-stone",
         "name": "Pierre de mousse",
         "icon": "stone"
-      }
+      },
+      "characters": [
+        "le-fossoyeur"
+      ]
     },
     {
       "number": 7,

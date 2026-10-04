@@ -138,7 +138,8 @@
         "icon": "spyglass"
       },
       "characters": [
-        "le-garcon"
+        "le-garcon",
+        "le-vieil-homme"
       ],
       "places": [
         "phare-des-brumes"

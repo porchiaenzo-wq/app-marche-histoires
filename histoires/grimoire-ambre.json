@@ -53,7 +53,10 @@
         "id": "grimoire-ambre.quill",
         "name": "Plume de corbeau",
         "icon": "quill"
-      }
+      },
+      "characters": [
+        "le-pretre"
+      ]
     },
     {
       "number": 3,

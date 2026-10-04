@@ -133,7 +133,10 @@
         "id": "sables-de-kor.hourglass",
         "name": "Sablier",
         "icon": "hourglass"
-      }
+      },
+      "characters": [
+        "le-prophete-du-malheur"
+      ]
     },
     {
       "number": 7,

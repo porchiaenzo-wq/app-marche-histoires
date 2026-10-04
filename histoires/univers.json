@@ -459,6 +459,126 @@
           "Et ils en laissent toujours une sur le rebord de la fenêtre de la vieille dame du quai."
         ]
       }
+    },
+    {
+      "id": "le-vieil-homme",
+      "name": "Le vieil homme",
+      "role": "Le conteur",
+      "description": "(Texte provisoire.) Il a tout vu et il raconte, la pipe au coin des lèvres, à qui veut bien s'asseoir près de lui.",
+      "portrait": "images/personnages/le-vieil-homme.jpg",
+      "portraitFocus": {
+        "x": 0.45,
+        "y": 0.32,
+        "size": 0.52
+      },
+      "secret": {
+        "title": "L'histoire qu'il ne finit jamais",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Il y a une histoire qu'il commence chaque soir.",
+          "Personne ne l'a jamais entendue jusqu'au bout."
+        ]
+      }
+    },
+    {
+      "id": "l-ermite",
+      "name": "L'ermite",
+      "role": "La lanterne dans la nuit",
+      "description": "(Texte provisoire.) Retiré du monde, il éclaire pourtant le chemin de ceux qui se perdent.",
+      "portrait": "images/personnages/l-ermite.jpg",
+      "portraitFocus": {
+        "x": 0.4,
+        "y": 0.36,
+        "size": 0.55
+      },
+      "secret": {
+        "title": "La flamme",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) La flamme de sa lanterne n'a pas bougé depuis quarante ans.",
+          "Il dit qu'elle attend quelqu'un."
+        ]
+      }
+    },
+    {
+      "id": "le-pretre",
+      "name": "Le prêtre",
+      "role": "Le gardien des secrets",
+      "description": "(Texte provisoire.) Austère ou bienveillant selon les jours, il a entendu plus de confessions qu'il ne voudrait.",
+      "portrait": "images/personnages/le-pretre.jpg",
+      "portraitFocus": {
+        "x": 0.53,
+        "y": 0.26,
+        "size": 0.52
+      },
+      "secret": {
+        "title": "La confession",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Une seule confession l'empêche de dormir.",
+          "Celle d'un homme qui n'était pas encore né."
+        ]
+      }
+    },
+    {
+      "id": "la-soignante",
+      "name": "La soignante",
+      "role": "Les mains habiles",
+      "description": "(Texte provisoire.) Douce et fatiguée, elle soigne tout le monde sans poser de questions.",
+      "portrait": "images/personnages/la-soignante.jpg",
+      "portraitFocus": {
+        "x": 0.54,
+        "y": 0.31,
+        "size": 0.5
+      },
+      "secret": {
+        "title": "La fiole bleue",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) Elle garde une dernière fiole au fond de sa poche.",
+          "Elle ne sait pas ce qu'elle guérit, seulement qu'elle guérit."
+        ]
+      }
+    },
+    {
+      "id": "le-prophete-du-malheur",
+      "name": "Le prophète du malheur",
+      "role": "Celui qui annonce la fin",
+      "description": "(Texte provisoire.) Les yeux fous, il déroule ses parchemins sur les places et annonce la fin à qui ne l'écoute pas.",
+      "portrait": "images/personnages/le-prophete-du-malheur.jpg",
+      "portraitFocus": {
+        "x": 0.58,
+        "y": 0.26,
+        "size": 0.5
+      },
+      "secret": {
+        "title": "Le dernier parchemin",
+        "stepsRequired": 25000,
+        "text": [
+          "(Texte provisoire.) Toutes ses prophéties se sont réalisées.",
+          "Sauf la dernière, qui ne parle que de toi."
+        ]
+      }
+    },
+    {
+      "id": "le-fossoyeur",
+      "name": "Le fossoyeur",
+      "role": "L'homme à la pelle",
+      "description": "(Texte provisoire.) Pelle à l'épaule et lanterne à la main, il a de l'humour noir et connaît tous les noms du cimetière.",
+      "portrait": "images/personnages/le-fossoyeur.jpg",
+      "portraitFocus": {
+        "x": 0.49,
+        "y": 0.3,
+        "size": 0.52
+      },
+      "secret": {
+        "title": "La tombe vide",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Il entretient une tombe sans nom depuis des années.",
+          "Elle est toujours vide, et toujours fleurie."
+        ]
+      }
     }
   ],
   "places": [
