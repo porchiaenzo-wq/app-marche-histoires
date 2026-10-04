@@ -95,7 +95,8 @@
         "icon": "key"
       },
       "characters": [
-        "la-reine"
+        "la-reine",
+        "la-fee"
       ],
       "places": [
         "bibliotheque-cachee"
@@ -118,7 +119,8 @@
         "icon": "candle"
       },
       "characters": [
-        "la-fille"
+        "la-fille",
+        "le-necromancien"
       ]
     },
     {
@@ -138,7 +140,8 @@
         "icon": "seal"
       },
       "characters": [
-        "l-amant"
+        "l-amant",
+        "le-chat-geant"
       ]
     }
   ],

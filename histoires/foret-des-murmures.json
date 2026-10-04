@@ -55,7 +55,8 @@
         "icon": "acorn"
       },
       "characters": [
-        "l-ourse-dansante"
+        "l-ourse-dansante",
+        "la-bete-poilue"
       ]
     },
     {
@@ -75,7 +76,8 @@
         "icon": "jar"
       },
       "characters": [
-        "le-fou"
+        "le-fou",
+        "la-vache-magique"
       ]
     },
     {
@@ -118,7 +120,8 @@
         "icon": "flute"
       },
       "characters": [
-        "les-jumeaux"
+        "les-jumeaux",
+        "les-trois-sorcieres"
       ]
     },
     {
@@ -158,7 +161,8 @@
         "icon": "seed"
       },
       "characters": [
-        "les-jumeaux"
+        "les-jumeaux",
+        "le-squelette"
       ]
     }
   ],

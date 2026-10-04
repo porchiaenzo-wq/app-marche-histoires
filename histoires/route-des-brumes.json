@@ -162,7 +162,8 @@
         "icon": "locket"
       },
       "characters": [
-        "la-fille"
+        "la-fille",
+        "le-crane-flottant"
       ]
     },
     {
@@ -183,7 +184,8 @@
       },
       "characters": [
         "le-heros",
-        "la-fille"
+        "la-fille",
+        "le-fantome"
       ],
       "places": [
         "phare-des-brumes"

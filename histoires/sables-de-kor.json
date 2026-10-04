@@ -92,7 +92,8 @@
         "icon": "cup"
       },
       "characters": [
-        "les-marginaux"
+        "les-marginaux",
+        "le-genie"
       ]
     },
     {
@@ -112,7 +113,8 @@
         "icon": "bell"
       },
       "characters": [
-        "les-gardes"
+        "les-gardes",
+        "le-golem"
       ],
       "places": [
         "cite-de-kor"
@@ -135,7 +137,8 @@
         "icon": "hourglass"
       },
       "characters": [
-        "le-prophete-du-malheur"
+        "le-prophete-du-malheur",
+        "le-minotaure"
       ]
     },
     {

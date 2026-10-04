@@ -99,7 +99,8 @@
         "icon": "shell"
       },
       "characters": [
-        "le-pirate"
+        "le-pirate",
+        "le-geant"
       ],
       "places": [
         "ile-sans-nom"
@@ -141,6 +142,9 @@
         "name": "Carte des étoiles",
         "icon": "star"
       },
+      "characters": [
+        "l-homme-oiseau"
+      ],
       "places": [
         "ile-sans-nom"
       ]

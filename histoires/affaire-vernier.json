@@ -96,7 +96,8 @@
         "icon": "notebook"
       },
       "characters": [
-        "le-maitre-de-ceremonie"
+        "le-maitre-de-ceremonie",
+        "l-homme-de-metal"
       ]
     },
     {
@@ -140,7 +141,8 @@
         "icon": "letter"
       },
       "characters": [
-        "le-prisonnier"
+        "le-prisonnier",
+        "l-homme-sans-tete"
       ],
       "places": [
         "atelier-vernier"
@@ -164,7 +166,8 @@
       },
       "characters": [
         "le-mari",
-        "l-amant"
+        "l-amant",
+        "le-diable"
       ]
     }
   ],

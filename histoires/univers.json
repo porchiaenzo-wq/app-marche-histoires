@@ -579,6 +579,346 @@
           "Elle est toujours vide, et toujours fleurie."
         ]
       }
+    },
+    {
+      "id": "la-fee",
+      "name": "La fée",
+      "role": "La lumière capricieuse",
+      "description": "(Texte provisoire.) Petite, lumineuse, et pas forcément gentille : elle aide ceux qui l'amusent.",
+      "portrait": "images/personnages/la-fee.jpg",
+      "portraitFocus": {
+        "x": 0.48,
+        "y": 0.27,
+        "size": 0.5
+      },
+      "secret": {
+        "title": "Le vœu oublié",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Elle exauce un vœu par siècle.",
+          "Le dernier n'a jamais été réclamé."
+        ]
+      }
+    },
+    {
+      "id": "les-trois-sorcieres",
+      "name": "Les trois sorcières",
+      "role": "Les trois âges",
+      "description": "(Texte provisoire.) Trois visages autour d'un chaudron : la jeune, la mère et l'aïeule, qui ne sont peut-être qu'une seule.",
+      "portrait": "images/personnages/les-trois-sorcieres.jpg",
+      "portraitFocus": {
+        "x": 0.5,
+        "y": 0.28,
+        "size": 0.8
+      },
+      "secret": {
+        "title": "Le chaudron",
+        "stepsRequired": 25000,
+        "text": [
+          "(Texte provisoire.) Ce qui mijote dans leur chaudron n'est pas une potion.",
+          "C'est la suite de ton histoire."
+        ]
+      }
+    },
+    {
+      "id": "le-necromancien",
+      "name": "Le nécromancien",
+      "role": "Celui qui parle aux morts",
+      "description": "(Texte provisoire.) Élégant et inquiétant, il tient un crâne comme on tient un vieil ami.",
+      "portrait": "images/personnages/le-necromancien.jpg",
+      "portraitFocus": {
+        "x": 0.42,
+        "y": 0.25,
+        "size": 0.55
+      },
+      "secret": {
+        "title": "Le crâne",
+        "stepsRequired": 25000,
+        "text": [
+          "(Texte provisoire.) Le crâne qu'il porte lui répond.",
+          "Et il a la voix du nécromancien."
+        ]
+      }
+    },
+    {
+      "id": "le-genie",
+      "name": "Le génie",
+      "role": "Mi-homme, mi-fumée",
+      "description": "(Texte provisoire.) Bras croisés, sourire amusé, il sort de sa lampe quand on ne l'attend plus.",
+      "portrait": "images/personnages/le-genie.jpg",
+      "portraitFocus": {
+        "x": 0.47,
+        "y": 0.2,
+        "size": 0.48
+      },
+      "secret": {
+        "title": "Le quatrième vœu",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Tout le monde sait qu'il accorde trois vœux.",
+          "Personne ne sait ce que coûte le quatrième."
+        ]
+      }
+    },
+    {
+      "id": "la-vache-magique",
+      "name": "La vache magique",
+      "role": "Celle qui en sait plus",
+      "description": "(Texte provisoire.) Une couronne de fleurs, une cloche au cou, et un regard qui en dit long.",
+      "portrait": "images/personnages/la-vache-magique.jpg",
+      "portraitFocus": {
+        "x": 0.58,
+        "y": 0.3,
+        "size": 0.55
+      },
+      "secret": {
+        "title": "La cloche",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) Sa cloche ne sonne que pour annoncer quelque chose d'important.",
+          "Elle n'a sonné que trois fois."
+        ]
+      }
+    },
+    {
+      "id": "l-homme-oiseau",
+      "name": "L'homme-oiseau",
+      "role": "Le corbeau en redingote",
+      "description": "(Texte provisoire.) Une tête de corbeau, une redingote impeccable et un monocle : il observe tout, et note tout.",
+      "portrait": "images/personnages/l-homme-oiseau.jpg",
+      "portraitFocus": {
+        "x": 0.5,
+        "y": 0.25,
+        "size": 0.55
+      },
+      "secret": {
+        "title": "Le carnet noir",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Il tient la liste de tous ceux qui ont regardé le ciel.",
+          "Ton nom y est déjà."
+        ]
+      }
+    },
+    {
+      "id": "le-crane-flottant",
+      "name": "Le crâne flottant",
+      "role": "La voix dans la brume",
+      "description": "(Texte provisoire.) Un crâne qui flotte dans les flammes pâles et qui parle beaucoup trop.",
+      "portrait": "images/personnages/le-crane-flottant.jpg",
+      "portraitFocus": {
+        "x": 0.56,
+        "y": 0.35,
+        "size": 0.55
+      },
+      "secret": {
+        "title": "Son ancien nom",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Il a oublié son nom.",
+          "Il cherche quelqu'un qui le connaît encore."
+        ]
+      }
+    },
+    {
+      "id": "le-golem",
+      "name": "Le golem",
+      "role": "Le gardien d'argile",
+      "description": "(Texte provisoire.) Un colosse d'argile au signe gravé sur le front, qui obéit à qui le connaît.",
+      "portrait": "images/personnages/le-golem.jpg",
+      "portraitFocus": {
+        "x": 0.38,
+        "y": 0.28,
+        "size": 0.55
+      },
+      "secret": {
+        "title": "Le signe",
+        "stepsRequired": 25000,
+        "text": [
+          "(Texte provisoire.) Effacer une lettre du signe suffit à l'arrêter.",
+          "Personne n'a jamais osé."
+        ]
+      }
+    },
+    {
+      "id": "le-minotaure",
+      "name": "Le minotaure",
+      "role": "Le prisonnier du labyrinthe",
+      "description": "(Texte provisoire.) Une tête de taureau, un regard humain, et une force qu'il préfère ne pas montrer.",
+      "portrait": "images/personnages/le-minotaure.jpg",
+      "portraitFocus": {
+        "x": 0.43,
+        "y": 0.3,
+        "size": 0.6
+      },
+      "secret": {
+        "title": "Le fil",
+        "stepsRequired": 25000,
+        "text": [
+          "(Texte provisoire.) Il garde un fil rouge enroulé autour du poignet.",
+          "Il dit que c'est la seule sortie."
+        ]
+      }
+    },
+    {
+      "id": "l-homme-sans-tete",
+      "name": "L'homme sans tête",
+      "role": "Le gentleman disparu",
+      "description": "(Texte provisoire.) Un col vide, un haut-de-forme tenu à la main : il salue toujours poliment.",
+      "portrait": "images/personnages/l-homme-sans-tete.jpg",
+      "portraitFocus": {
+        "x": 0.45,
+        "y": 0.42,
+        "size": 0.75
+      },
+      "secret": {
+        "title": "Sa tête",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Il sait exactement où est sa tête.",
+          "Il ne veut simplement pas la reprendre."
+        ]
+      }
+    },
+    {
+      "id": "le-fantome",
+      "name": "Le fantôme",
+      "role": "L'apparition au violon",
+      "description": "(Texte provisoire.) Une silhouette pâle qui joue du violon, et dont les contours s'effacent dans la brume.",
+      "portrait": "images/personnages/le-fantome.jpg",
+      "portraitFocus": {
+        "x": 0.47,
+        "y": 0.23,
+        "size": 0.5
+      },
+      "secret": {
+        "title": "La dernière note",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) Elle rejoue chaque nuit la même mélodie.",
+          "Il lui manque la dernière note."
+        ]
+      }
+    },
+    {
+      "id": "le-squelette",
+      "name": "Le squelette",
+      "role": "Le danseur macabre",
+      "description": "(Texte provisoire.) Chapeau en lambeaux et sourire éternel : il est presque sympathique.",
+      "portrait": "images/personnages/le-squelette.jpg",
+      "portraitFocus": {
+        "x": 0.5,
+        "y": 0.32,
+        "size": 0.55
+      },
+      "secret": {
+        "title": "La danse",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) Il ne danse qu'avec ceux qui marchent beaucoup.",
+          "Il compte leurs pas."
+        ]
+      }
+    },
+    {
+      "id": "la-bete-poilue",
+      "name": "La bête poilue",
+      "role": "Le cœur sous la fourrure",
+      "description": "(Texte provisoire.) Énorme, hirsute et cornue, avec une cloche au cou et des yeux étonnamment doux.",
+      "portrait": "images/personnages/la-bete-poilue.jpg",
+      "portraitFocus": {
+        "x": 0.57,
+        "y": 0.38,
+        "size": 0.6
+      },
+      "secret": {
+        "title": "La cloche de la bête",
+        "stepsRequired": 20000,
+        "text": [
+          "(Texte provisoire.) La cloche n'est pas à elle.",
+          "Elle la garde pour quelqu'un qui reviendra."
+        ]
+      }
+    },
+    {
+      "id": "l-homme-de-metal",
+      "name": "L'homme de métal",
+      "role": "L'automate",
+      "description": "(Texte provisoire.) Un automate de laiton aux yeux de verre ronds, dont les rouages tournent encore.",
+      "portrait": "images/personnages/l-homme-de-metal.jpg",
+      "portraitFocus": {
+        "x": 0.5,
+        "y": 0.3,
+        "size": 0.5
+      },
+      "secret": {
+        "title": "La clé du dos",
+        "stepsRequired": 25000,
+        "text": [
+          "(Texte provisoire.) Il faut le remonter chaque jour.",
+          "Il n'a jamais su qui le faisait pendant la nuit."
+        ]
+      }
+    },
+    {
+      "id": "le-chat-geant",
+      "name": "Le chat géant",
+      "role": "Le nonchalant",
+      "description": "(Texte provisoire.) Immense et paresseux, il semble dormir. Il ne dort jamais vraiment.",
+      "portrait": "images/personnages/le-chat-geant.jpg",
+      "portraitFocus": {
+        "x": 0.4,
+        "y": 0.37,
+        "size": 0.58
+      },
+      "secret": {
+        "title": "Le grelot",
+        "stepsRequired": 15000,
+        "text": [
+          "(Texte provisoire.) Son grelot ne tinte jamais quand il marche.",
+          "Seulement quand il ment."
+        ]
+      }
+    },
+    {
+      "id": "le-geant",
+      "name": "Le géant",
+      "role": "La montagne qui marche",
+      "description": "(Texte provisoire.) Si grand que des herbes poussent dans sa barbe, il est plus doux qu'il n'y paraît.",
+      "portrait": "images/personnages/le-geant.jpg",
+      "portraitFocus": {
+        "x": 0.35,
+        "y": 0.3,
+        "size": 0.55
+      },
+      "secret": {
+        "title": "La montagne",
+        "stepsRequired": 30000,
+        "text": [
+          "(Texte provisoire.) On dit qu'il s'est endormi il y a mille ans.",
+          "Le village est construit sur son épaule."
+        ]
+      }
+    },
+    {
+      "id": "le-diable",
+      "name": "Le diable",
+      "role": "Le charmeur",
+      "description": "(Texte provisoire.) Charmeur plutôt que monstrueux, il propose toujours un marché très raisonnable.",
+      "portrait": "images/personnages/le-diable.jpg",
+      "portraitFocus": {
+        "x": 0.42,
+        "y": 0.25,
+        "size": 0.5
+      },
+      "secret": {
+        "title": "Le contrat",
+        "stepsRequired": 30000,
+        "text": [
+          "(Texte provisoire.) Il n'a jamais rompu un contrat.",
+          "Il les écrit simplement en très petits caractères."
+        ]
+      }
     }
   ],
   "places": [
