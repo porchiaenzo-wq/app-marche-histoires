@@ -187,9 +187,9 @@
       "description": "(Texte provisoire.) Il fait rire la cour, et c'est souvent lui qui dit la vérité.",
       "portrait": "images/personnages/le-fou.jpg",
       "portraitFocus": {
-        "x": 0.6,
-        "y": 0.36,
-        "size": 0.6
+        "x": 0.49,
+        "y": 0.37,
+        "size": 0.55
       },
       "secret": {
         "title": "La marotte",
@@ -627,9 +627,9 @@
       "description": "(Texte provisoire.) Élégant et inquiétant, il tient un crâne comme on tient un vieil ami.",
       "portrait": "images/personnages/le-necromancien.jpg",
       "portraitFocus": {
-        "x": 0.42,
-        "y": 0.25,
-        "size": 0.55
+        "x": 0.57,
+        "y": 0.24,
+        "size": 0.5
       },
       "secret": {
         "title": "Le crâne",
@@ -667,9 +667,9 @@
       "description": "(Texte provisoire.) Une couronne de fleurs, une cloche au cou, et un regard qui en dit long.",
       "portrait": "images/personnages/la-vache-magique.jpg",
       "portraitFocus": {
-        "x": 0.58,
-        "y": 0.3,
-        "size": 0.55
+        "x": 0.52,
+        "y": 0.4,
+        "size": 0.58
       },
       "secret": {
         "title": "La cloche",
@@ -687,9 +687,9 @@
       "description": "(Texte provisoire.) Une tête de corbeau, une redingote impeccable et un monocle : il observe tout, et note tout.",
       "portrait": "images/personnages/l-homme-oiseau.jpg",
       "portraitFocus": {
-        "x": 0.5,
-        "y": 0.25,
-        "size": 0.55
+        "x": 0.53,
+        "y": 0.27,
+        "size": 0.5
       },
       "secret": {
         "title": "Le carnet noir",
@@ -727,9 +727,9 @@
       "description": "(Texte provisoire.) Un colosse d'argile au signe gravé sur le front, qui obéit à qui le connaît.",
       "portrait": "images/personnages/le-golem.jpg",
       "portraitFocus": {
-        "x": 0.38,
-        "y": 0.28,
-        "size": 0.55
+        "x": 0.43,
+        "y": 0.27,
+        "size": 0.5
       },
       "secret": {
         "title": "Le signe",
@@ -847,8 +847,8 @@
       "description": "(Texte provisoire.) Un automate de laiton aux yeux de verre ronds, dont les rouages tournent encore.",
       "portrait": "images/personnages/l-homme-de-metal.jpg",
       "portraitFocus": {
-        "x": 0.5,
-        "y": 0.3,
+        "x": 0.47,
+        "y": 0.27,
         "size": 0.5
       },
       "secret": {
@@ -887,8 +887,8 @@
       "description": "(Texte provisoire.) Si grand que des herbes poussent dans sa barbe, il est plus doux qu'il n'y paraît.",
       "portrait": "images/personnages/le-geant.jpg",
       "portraitFocus": {
-        "x": 0.35,
-        "y": 0.3,
+        "x": 0.43,
+        "y": 0.36,
         "size": 0.55
       },
       "secret": {
@@ -907,8 +907,8 @@
       "description": "(Texte provisoire.) Charmeur plutôt que monstrueux, il propose toujours un marché très raisonnable.",
       "portrait": "images/personnages/le-diable.jpg",
       "portraitFocus": {
-        "x": 0.42,
-        "y": 0.25,
+        "x": 0.5,
+        "y": 0.32,
         "size": 0.5
       },
       "secret": {
